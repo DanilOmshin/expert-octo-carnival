@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\b\smallest\bin\Debug\smallest.exe.config
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\b\smallest\bin\Debug\smallest.exe
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\i\smallest\Debug\smallest.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\i\smallest\Debug\smallest.Form1.resources
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\i\smallest\Debug\smallest.Properties.Resources.resources
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\i\smallest\Debug\smallest.csproj.GenerateResource.cache
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\i\smallest\Debug\smallest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\i\smallest\Debug\smallest.csproj.CopyComplete
+C:\Users\User\source\repos\smallest\.vs\smallest\v16\lut\0\i\smallest\Debug\smallest.exe

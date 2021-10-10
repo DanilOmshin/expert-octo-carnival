@@ -1,0 +1,3 @@
+D:\загрузки\первая прога\obj\Debug\rating.csprojAssemblyReference.cache
+D:\загрузки\первая прога\obj\Debug\rating.Form1.resources
+D:\загрузки\первая прога\obj\Debug\rating.csproj.GenerateResource.cache

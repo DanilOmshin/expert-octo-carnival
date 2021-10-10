@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\rating\rating\bin\Debug\rating.exe.config
+C:\Users\User\source\repos\rating\rating\bin\Debug\rating.exe
+C:\Users\User\source\repos\rating\rating\bin\Debug\rating.pdb
+C:\Users\User\source\repos\rating\rating\obj\Debug\rating.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\rating\rating\obj\Debug\rating.Form1.resources
+C:\Users\User\source\repos\rating\rating\obj\Debug\rating.Properties.Resources.resources
+C:\Users\User\source\repos\rating\rating\obj\Debug\rating.csproj.GenerateResource.cache
+C:\Users\User\source\repos\rating\rating\obj\Debug\rating.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rating\rating\obj\Debug\rating.exe
+C:\Users\User\source\repos\rating\rating\obj\Debug\rating.pdb
+
